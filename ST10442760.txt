@@ -1,0 +1,11 @@
+ST10442760 - CLDV6211 Assignment 1
+
+App Link: 
+https://eventeasekm-b9b6e2f6dzbhfxhh.canadacentral-01.azurewebsites.net/
+
+
+
+Server Link: 
+https://portal.azure.com/#@advtechonline.onmicrosoft.com/resource/subscriptions/e31273bf-0dae-4395-a8b5-33f801de7c65/resourceGroups/AZ-JHB-RSG-IIEMSA-ST10442760-TER/providers/Microsoft.Sql/servers/eventvenuedb/databases/eventvenuedb/overview
+
+https://portal.azure.com/#@advtechonline.onmicrosoft.com/asset/SqlAzureExtension/Database/subscriptions/e31273bf-0dae-4395-a8b5-33f801de7c65/resourceGroups/AZ-JHB-RSG-IIEMSA-ST10442760-TER/providers/Microsoft.Sql/servers/eventvenuedb/databases/eventvenuedb
